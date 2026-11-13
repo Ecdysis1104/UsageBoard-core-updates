@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "protocolVersion": 1,
   "platform": "windows-amd64",
-  "coreVersion": "20.0.48",
-  "upstreamCommit": "8995f3b7fd7110b8f37564f7d0468acc7a7d6b20"
+  "coreVersion": "20.0.50",
+  "upstreamCommit": "b71a1aae581b5961655b2cacf4aaf8c402981554"
 }
